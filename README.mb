@@ -1,0 +1,31 @@
+PEMESANAN TIKET PEKAN OLAHRAGA PROVINSI JAWA BARAT 2022
+
+A. PENJELASAN TENTANG PROGRAM
+Pada tahun 2022 nanti, akan direncanakan Kompetisi olah raga tingkat provinsi Jawa Barat yang cukup bergengsi.
+Kompetisi ini bernama Pekan Olahraga Provisi Jawa Barat atau yang bisa disingkat PORPROV JABAR 2022. 
+Nantinya akan terdapat beberapa cabang olahraga yang akan dikompetisikan. Oleh karena itu, kami memiliki ide
+untuk membuat program dalam pemesanan tiket online untuk memesan tiket pertandingan Basketball dan Volleyball
+dengan jadwal serta nomor kursi yang sangat spesifik. Angka 1 pada kursi menandakan bahwa kursi masih kosong, sedangkan
+angka 0 menandakan bahwa kursi tidak bisa dibooking atau sudah terisi orang lain. Keunikan dari program ini adalah
+mampu menyimpan hasil boookingan walaupun program sudah diclose, dan jika program ini dijalankan sebanyak 2 program 
+(2 EXE), maka yang tercepat booking yang akan menyimpan pemesanannya. (REAL TIME)
+
+B. INTERFACE PROGRAM
+Tampilan awal program akan terdapat 5 menu, yaitu:
+1. Match Schedule: menu untuk melihat jadwal pertandingan
+2. Book Ticket : menu untuk memesan tiket
+3. My tiket : menu untuk melihat tiket yang sudah dipesan
+4. Help: Menu untuk melihat penjelasan program
+5. Exit: Menu untuk mengakhiri program
+
+
+C. KELEBIHAN PROGRAM
+1. Program ini dapat menyimpan memori (disimpan ke file CSV)
+2. Jika dijalankan sebanyak 2 exe, dan dua duanya memilih suatu kursi tertentu yang sama,
+maka yang tercepat lah yang bisa membooking kursi tersebut.
+
+D. MATERI YANG TERDAPAT DI PROGRAM INI
+1. Array
+2. Passing Array
+3. Modular
+4. Struct
